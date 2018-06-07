@@ -7,7 +7,7 @@ Algorithm
 
   1. Select all the points than make a convex hull
      This like an envelop of outer points of the scatter plot
-  2. Give the 'envelop points' do a catesion join of the
+  2. Given the 'envelop points' do a cartesion join of the
      envelop with itself. You will always get two results
      (X1,Y1) to (X2,Y2) and  (X2,Y2) to (X1,Y1). They
      are the same, select one of them.
